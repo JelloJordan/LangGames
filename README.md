@@ -1,6 +1,6 @@
 # LangGames
 
-Play these games here: jellojordan.github.io/langgames
+Play these games here: https://jellojordan.github.io/LangGames
 
 # About
 
